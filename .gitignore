@@ -1,0 +1,11 @@
+# Ignore hasil build dan konfigurasi lokal
+build/
+nbproject/private/
+*.class
+*.log
+*.bak
+
+# Optional: Ignore IDE-specific settings
+*.iml
+.idea/
+.vscode/
